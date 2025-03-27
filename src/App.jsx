@@ -27,10 +27,10 @@ function App() {
         <div className="container mx-auto px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 rounded-full bg-gradient-to-br from-primary to-primary-light flex items-center justify-center">
-              <span className="text-white font-bold text-sm">CP</span>
+              <span className="text-white font-bold text-sm">GG</span>
             </div>
             <h1 className="text-xl font-bold bg-gradient-to-r from-primary to-primary-light dark:from-primary-light dark:to-accent bg-clip-text text-transparent">
-              CricketPulse
+              Gogenks
             </h1>
           </div>
           
@@ -57,7 +57,7 @@ function App() {
 
       <footer className="bg-white dark:bg-surface-800 border-t border-surface-200 dark:border-surface-700 py-4">
         <div className="container mx-auto px-4 text-center text-sm text-surface-500">
-          <p>© {new Date().getFullYear()} CricketPulse. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Gogenks. All rights reserved.</p>
         </div>
       </footer>
     </div>
