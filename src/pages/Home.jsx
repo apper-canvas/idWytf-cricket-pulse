@@ -148,7 +148,7 @@ function Home() {
       <div className="flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
         <div>
           <h1 className="text-2xl md:text-3xl font-bold text-surface-800 dark:text-surface-100">
-            Live Cricket Scores
+            Live
           </h1>
           <p className="text-surface-500 dark:text-surface-400 mt-1">
             Real-time updates from matches around the world
